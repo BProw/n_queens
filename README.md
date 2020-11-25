@@ -1,6 +1,6 @@
 # n_queens README
 
-**Assignment from CS 3210 - Principles of Programming Languages - Spring 2020 - MSU Denver - Dr. Thyago Mota**  
+**CS 3210 -Principles of Programming Languages-Spring 2020-MSU Denver- Dr. Thyago Mota**  
 
 ## Description  
 
